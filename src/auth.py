@@ -2,3 +2,7 @@
 def auth_step_1():
     pass
 
+# Add auth module skeleton (commit 21)
+def auth_step_21():
+    pass
+
